@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\EditorTextoCSharp\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
